@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, criteria for HASS-CI subjects, grading, and policies on attendance,
+  late papers, rewrites, and plagiarism.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
